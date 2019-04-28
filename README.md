@@ -10,6 +10,15 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so your first task on the job is to build a set of data reports to provide the answers. 
 
+## Gathering Data and mergin them together in a Data Base.
+
+I get directly from the [Citi Bike Data] the data for the Q1 of 2019 and the complete 2018, then i merge them and clean it useing Tableau Prep in order to have a Hyper file, which the perform of Tableau is quite faster than read a CSV file.
+
+![Citi-Bikes](Images/ETL.png)
+
+![Citi-Bikes](Images/ETL_Done.png)
+
+
 ## Task
 
 **Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard, story, or report.  You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods. The following are some questions you may wish to tackle, especially if you are working with merged datasets. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!**
