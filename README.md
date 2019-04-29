@@ -1,6 +1,6 @@
 # Tableau Assignment - Citi Bike Analytics
 
-**Jahir Munguia [LinkedIn](https://www.linkedin.com/in/jahirmunguia/) | [GitHub](https://github.com/HaShAkO) **
+**Jahir Munguia [LinkedIn](https://www.linkedin.com/in/jahirmunguia/) | [GitHub](https://github.com/HaShAkO)**
 
 
 ## Background
@@ -26,29 +26,30 @@ I get directly from the [Citi Bike Data] the data for the Q1 of 2019 and the com
 
 **Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard, story, or report.  You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods. The following are some questions you may wish to tackle, especially if you are working with merged datasets. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!**
 
-* How many trips have been recorded total during the chosen period?
+* How many trips have been recorded total during the chosen period? - **480,009**
 
-* By what percentage has total ridership grown? 
+* By what percentage has total ridership grown? - **For 2018 May 23 437% and for 2019 was Jan 22 the percentage was 242%**
 
-* How has the proportion of short-term customers and annual subscribers changed?
+* How has the proportion of short-term customers and annual subscribers changed? - **Customers is the 3% and Subscribers are 97% of the Total**
 
-* What are the peak hours in which bikes are used during summer months? 
+* What are the peak hours in which bikes are used during summer months? - **The two peaks are at 08:00 hrs with 5453 and 5005 users at 18:00 Hrs in Aug**
 
-* What are the peak hours in which bikes are used during winter months?
+* What are the peak hours in which bikes are used during winter months? - **The two peaks are at 08:00 hrs with 4350 in Feb and 3805 users at 18:00 Hrs in Jan **
 
-![CQuestions 1 to 5 ](Images/Questions_1_to_5.png)
+![Questions 1 to 5 ](Images/Questions_1_to_5.png)
 
-* Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
 
-* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
+* Today, what are the top 10 stations in the city for starting a journey?
+* Today, what are the top 10 stations in the city for ending a journey? 
+* Today, what are the bottom 10 stations in the city for starting a journey?
+* Today, what are the bottom 10 stations in the city for ending a journey?
 
-* Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
+**For this questions i think, a Map that can represent the usage by Station ID it will more usefull than a simply number**
 
-* Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
+* Today, what is the gender breakdown of active participants (Male v. Female)? - **Male represents the 78%, Female 22% of the active participants (Excluding the unknown)**
+* How effective has gender outreach been in increasing female ridership over the timespan? - **Analizing the st Q of 2019 in comparison with the 2018, i dare to say that the increase of womans using this service has increasing more than mans altough male population are bigger than woman i mean, talking about the whole population of participants, in Jan the service increase in 70%, Feb 31%, March 54%, it will be interesting to find out which is the factor to this growth**
 
-* Today, what is the gender breakdown of active participants (Male v. Female)?
-
-* How effective has gender outreach been in increasing female ridership over the timespan?
+![Questions 6 to 11 ](Images/Questions_6_to_11.png)
 
 * How does the average trip duration change by age?
 
