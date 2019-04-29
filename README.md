@@ -51,23 +51,15 @@ I get directly from the [Citi Bike Data] the data for the Q1 of 2019 and the com
 
 ![Questions 6 to 11 ](Images/Questions_6_to_11.png)
 
-* How does the average trip duration change by age?
+* How does the average trip duration change by age? - **The max avg abour trip duration occurs in the people that have actually between 16 and 23 Years, with a aprox 20 mins of trip duration in mins (For this i had to create a calculated field where i have to use the year of birth field of the information)** 
 
-* What is the average distance in miles that a bike is ridden?
+* What is the average distance in miles that a bike is ridden? - **The Histogram shows that have the same distribution than the previous question, the highest average are in the segment of 16 and 23 years with 0.04 miles per hour, (For this graph i also made a calculated field which in the Citi Bike Data Web Page mention that they calculated the mileage using an assumed speed of 7.456 miles per hour ** 
 
-* Which bikes (by ID) are most likely due for repair or inspection in the timespan? 
+* Which bikes (by ID) are most likely due for repair or inspection in the timespan? **As long there are several data, if we select the whole dataset we can see that the ID's 19886 and 33632 are the mos likely bikes to repair**
 
-* How variable is the utilization by bike ID?
+* How variable is the utilization by bike ID? **As you can see in the Bubbles graph, the distribution of the usage of a bike are really uniform, so we can assume that the utilization is really variable among the time**
 
-**Additionally, city officials would like to see the following visualizations:**
-
-* A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
-
-* If you're working with a merged dataset: a dynamic map that shows how each station's popularity changes over time (by month and year) -- with commentary pointing to any interesting events that may be behind these phenomena.
-
-**Lastly, as a chronic over-achiever:**
-
-* Find at least two unexpected phenomena in the data and provide a visualization and analysis to document their presence. 
+![Questions 12 to 15 ](Images/Questions_12_to_15.png)
 
 ## Considerations
 
@@ -82,37 +74,6 @@ Your final product will be assessed on the following metrics:
 * Readability
 
 * Visual Attraction
-
-
-## Hints
-
-* You may need to get creative in how you combine each of the CSV files. Don't just assume Tableau is the right tool for the job. At this point, you have a wealth of technical skills and research abilities. Dig for an approach that works and just go with it.
-
-* Don't just assume the CSV format hasn't changed since 2013. Subtle changes to the formats in any of your columns can blockade your analysis. Ensure your data is consistent and clean throughout your analysis. (Hint: Start and End Time change at some point in the history logs).
-
-* Consider building your dashboards with small extracts of the data (i.e. single files) before attempting to import the whole thing. What you will find is that importing all 20+ million records of data will create performance issues quickly. Welcome to "Big Data."
-
-* While utilizing all of the data may seem like a nice power play, consider the time-course in making your analysis. Is data from 2013 the most relevant for making bike replacement decisions today? Probably not. Don't let overwhelming data fool you. Ground your analysis in common sense.
-
-* Remember, data alone doesn't "answer" anything. You will need to accompany your data visualizations with clear and directed answers and analysis. 
-
-* As is often the case, your clients are asking for a LOT of answers. Be considerate about their need-to-know and the importance of not "cramming in everything". Of course, answer each question, but do so in a way that is organized and presentable. 
-
-* Since this is a project for the city, spend the appropriate time thinking through decisions on color schemes, fonts, and visual story-telling. The Citi Bike program has a clear visual footprint. As a suggestion, look for ways to have your data visualizations match their aesthetic tones.
-
-* Pay attention to labels. What exactly is "time duration"? What's the value of "age of birth"? You will almost certainly need calculated fields to get what you need.
-
-* Keep a close eye for obvious outliers or false data. Not everyone who signs up for the program is answering honestly.
-
-* In answering the question of "why" a phenomenon is occurring, consider adding other pieces of information on socioeconomic or other geographic data. Tableau has a map "layer" feature that you may find handy. 
-
-* Don't be afraid to manipulate your data and play with settings in Tableau. Tableau is meant to be explored. We haven't covered all that you need -- so you will need to keep an eye out for new tricks. 
-
-* The final "format" of your deliverable is up to you. It can be an embedded Tableau dashboard, a Tableau Story, a Tableau visualization + PDF -- you name it. The bottom line is: This is your story to tell. Use the medium you deem most effective. (But you should definitely be using Tableau in some way!)
-
-* Treat this as a serious endeavor! This is an opportunity to show future employers that you have what it takes to be a top-notch analyst. 
-
-* Good luck!
 
 ## Copyright
 
