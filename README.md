@@ -36,7 +36,7 @@ I get directly from the [Citi Bike Data] the data for the Q1 of 2019 and the com
 
 * What are the peak hours in which bikes are used during winter months? - **The two peaks are at 08:00 hrs with 4350 in Feb and 3805 users at 18:00 Hrs in Jan **
 
-![Questions 1 to 5 ](Images/Questions_1_to_5.png)
+![Questions 1 to 5 ](Images/Questions_1_to_5.png)- [ Dashboard - Tableau Public](https://public.tableau.com/profile/jahir.castillon#!/vizhome/DatabootcampCitiBikeDashboard/Dashboard1-5)
 
 
 * Today, what are the top 10 stations in the city for starting a journey?
@@ -49,7 +49,7 @@ I get directly from the [Citi Bike Data] the data for the Q1 of 2019 and the com
 * Today, what is the gender breakdown of active participants (Male v. Female)? - **Male represents the 78%, Female 22% of the active participants (Excluding the unknown)**
 * How effective has gender outreach been in increasing female ridership over the timespan? - **Analizing the st Q of 2019 in comparison with the 2018, i dare to say that the increase of womans using this service has increasing more than mans altough male population are bigger than woman i mean, talking about the whole population of participants, in Jan the service increase in 70%, Feb 31%, March 54%, it will be interesting to find out which is the factor to this growth**
 
-![Questions 6 to 11 ](Images/Questions_6_to_11.png)
+![Questions 6 to 11 ](Images/Questions_6_to_11.png)- [ Dashboard - Tableau Public](https://public.tableau.com/profile/jahir.castillon#!/vizhome/DatabootcampCitiBikeDashboard/Dashboard6-10)
 
 * How does the average trip duration change by age? - **The max avg abour trip duration occurs in the people that have actually between 16 and 23 Years, with a aprox 20 mins of trip duration in mins (For this i had to create a calculated field where i have to use the year of birth field of the information)** 
 
@@ -59,7 +59,7 @@ I get directly from the [Citi Bike Data] the data for the Q1 of 2019 and the com
 
 * How variable is the utilization by bike ID? **As you can see in the Bubbles graph, the distribution of the usage of a bike are really uniform, so we can assume that the utilization is really variable among the time**
 
-![Questions 12 to 15 ](Images/Questions_12_to_15.png)
+![Questions 12 to 15 ](Images/Questions_12_to_15.png)- [ Dashboard - Tableau Public](https://public.tableau.com/profile/jahir.castillon#!/vizhome/DatabootcampCitiBikeDashboard/Dashboard12-15)
 
 ## Considerations
 
