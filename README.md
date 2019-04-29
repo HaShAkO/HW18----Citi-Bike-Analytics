@@ -1,6 +1,6 @@
 # Tableau Assignment - Citi Bike Analytics
 
-**Jahir Munguia | [LinkedIn](https://www.linkedin.com/in/jahirmunguia/) | [GitHub](https://github.com/HaShAkO) |**
+**Jahir Munguia [LinkedIn](https://www.linkedin.com/in/jahirmunguia/) | [GitHub](https://github.com/HaShAkO) **
 
 
 ## Background
@@ -17,9 +17,9 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 I get directly from the [Citi Bike Data] the data for the Q1 of 2019 and the complete 2018, then i merge them and clean it useing Tableau Prep in order to have a Hyper file, which the perform of Tableau is quite faster than read a CSV file.
 
-![Citi-Bikes](Images/ETL.png)
+![ETL](Images/ETL.png)
 
-![Citi-Bikes](Images/ETL_Done.png)
+![ETL Done](Images/ETL_Done.png)
 
 
 ## Task
@@ -35,6 +35,8 @@ I get directly from the [Citi Bike Data] the data for the Q1 of 2019 and the com
 * What are the peak hours in which bikes are used during summer months? 
 
 * What are the peak hours in which bikes are used during winter months?
+
+![CQuestions 1 to 5 ](Images/Questions_1_to_5.png)
 
 * Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
 
