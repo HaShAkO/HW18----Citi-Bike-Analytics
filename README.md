@@ -1,5 +1,8 @@
 # Tableau Assignment - Citi Bike Analytics
 
+**Jahir Munguia | [LinkedIn](https://www.linkedin.com/in/jahirmunguia/) | [GitHub](https://github.com/HaShAkO) |**
+
+
 ## Background
 
 ![Citi-Bikes](Images/citibike.jpg)
